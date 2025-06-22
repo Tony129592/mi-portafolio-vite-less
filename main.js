@@ -1,4 +1,3 @@
-
 import { setupCounter } from './src/counter.js'
 import './styles/main.less';
 
